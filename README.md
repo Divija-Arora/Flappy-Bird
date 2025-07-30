@@ -23,6 +23,10 @@ Control the bird and navigate it through a series of pipes without crashing.
 
 
 
+
+
+
+
 <img width="1366" height="768" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/af087365-a2b8-4cc4-bbb8-e36b83a97eb3" />
 
 
