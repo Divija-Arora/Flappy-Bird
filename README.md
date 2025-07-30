@@ -19,7 +19,8 @@ Control the bird and navigate it through a series of pipes without crashing.
 
 ## 📸 Preview
 
-![Flappy Bird Screenshot](https://raw.githubusercontent.com/divija-arora/Flappy-Bird/main/assets/screenshot.png)  
+![Uploading image.png…]()
+
 
 ---
 
