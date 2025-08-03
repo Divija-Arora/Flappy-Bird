@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird Clone
+# 🐦 Flappy Bird 
 
 A simple and fun Flappy Bird game built using **HTML**, **CSS**, and **JavaScript**. Play the classic game in your browser.
 
